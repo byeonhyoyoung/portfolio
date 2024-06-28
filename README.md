@@ -36,7 +36,7 @@
 >> - Language : Java 
 >> - Skill : 
 >> 
->> [프로젝트 상세 설명] 
+>> [프로젝트 상세 설명] (https://github.com/ssong-sk/codeconnect.git)
 
 <br />
 
