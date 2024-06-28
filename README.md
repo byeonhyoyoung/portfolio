@@ -13,7 +13,7 @@
 
 <br />
 
-# profile
+# 👩 Profile
 
 >
 > 
@@ -111,7 +111,7 @@
 
 <br />
 
-# 🎞 Youtube
+# 🎞 Demonstration video
 <table>
   <tbody>
     <tr>
