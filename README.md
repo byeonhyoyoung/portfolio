@@ -33,29 +33,24 @@
 > - 핵심 역할 : 
 >
 >> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
+>> - Language : Java 
+>> - Skill : 
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
->
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> [프로젝트 상세 설명] 
 
 <br />
 
 ## 2. 🛫 KyotoInside
 
-> 교토 관광지 안내 웹 사이트 _(내일배움캠프 - 4520조 팀프로젝트)_
+> 교토 관광지 안내 웹 사이트 _(내일배움캠프 - 4조 팀프로젝트)_
 >
 > - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
+> - 
+> - 핵심 역할 : 
+> - Language : 
+> - Skill : 
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명] (https://github.com/JunbroGit/SemiProject.git)
 
 <br />
 
@@ -63,12 +58,12 @@
 
 > 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
 >
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
+> - 개발기간 : 
+> - 핵심 역할 : 
+> - Language : 
+> - Skill : 
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [프로젝트 상세 설명]
 
 
 <br />
